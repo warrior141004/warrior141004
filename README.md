@@ -10,8 +10,15 @@
   <a href="https://github.com/warrior141004?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-View%20Work-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View projects" />
   </a>
+  <a href="https://github.com/warrior141004">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Follow Omkar Ji Saini on GitHub" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=warrior141004&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Practical%20Software-0F172A?style=for-the-badge" alt="Focus practical software" />
+</p>
+
+<p align="center">
+  <strong>Follow for practical React tools, Python automation, and machine learning experiments built with maintainability in mind.</strong>
 </p>
 
 ---
