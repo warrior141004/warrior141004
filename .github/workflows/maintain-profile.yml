@@ -1,0 +1,28 @@
+name: Maintain Profile
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Configure commit identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Refresh generated profile activity
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GITHUB_USERNAME: warrior141004
+        run: ./scripts/maintain-profile.sh
