@@ -126,6 +126,21 @@
   </table>
 </details>
 
+<!-- PROFILE-AUTO-START -->
+<h2 align="center">Latest Public Work</h2>
+
+<p align="center"><em>Generated from live public GitHub repository data. Run <code>scripts/maintain-profile.sh</code> to refresh.</em></p>
+
+| Repository | Stack | Focus | Last Push |
+| --- | --- | --- | --- |
+| [Salary_slip](https://github.com/warrior141004/Salary_slip) | `JavaScript` | React and Vite salary slip generator for payroll documents. | 2026-07-25 |
+| [DAA](https://github.com/warrior141004/DAA) | `C++` | C++ implementations of sorting and searching algorithms. | 2026-07-25 |
+| [my_current_project-2](https://github.com/warrior141004/my_current_project-2) | `Python` | Python certified unlearning experiment with generated artifacts. | 2026-07-25 |
+| [Gully_cart](https://github.com/warrior141004/Gully_cart) | `HTML` | Full-stack cart workflow with separated frontend and backend code. | 2026-07-25 |
+| [synamatic_infotech](https://github.com/warrior141004/synamatic_infotech) | `HTML` | Static business website with Vercel deployment configuration. | 2026-07-25 |
+| [Colab_machinelearning_basic-Implementation](https://github.com/warrior141004/Colab_machinelearning_basic-Implementation) | `Jupyter Notebook` | Python notebooks for machine learning basics, including CNN experiments. | 2026-07-25 |
+<!-- PROFILE-AUTO-END -->
+
 <h2 align="center">GitHub Snapshot</h2>
 
 <p align="center">
