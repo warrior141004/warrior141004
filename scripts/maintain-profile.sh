@@ -25,7 +25,7 @@ wait_for_github() {
   local waited=0
 
   while (( waited <= MAX_WAIT_SECONDS )); do
-    if gh auth status -h github.com >/dev/null 2>&1 && gh api user >/dev/null 2>&1; then
+    if gh api -X GET "/users/$USERNAME/repos" -f per_page=1 >/dev/null 2>&1; then
       return 0
     fi
 
@@ -33,6 +33,10 @@ wait_for_github() {
     sleep 5
     waited=$((waited + 5))
   done
+
+  if [[ -n "${GH_TOKEN:-}${GITHUB_TOKEN:-}" ]]; then
+    die "Could not reach the GitHub API with the configured token."
+  fi
 
   die "Could not reach GitHub or GitHub CLI is not authenticated. Run: gh auth login"
 }
