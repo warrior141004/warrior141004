@@ -157,8 +157,7 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=warrior141004&theme=tokyonight&utcOffset=5.5" alt="Productive time for warrior141004" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=warrior141004&theme=tokyonight&hide_border=true" alt="GitHub streak for warrior141004" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=warrior141004&theme=tokyonight&hide_border=true" alt="GitHub streak for warrior141004" />
 </p>
 
 <p align="center">
