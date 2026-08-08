@@ -24,5 +24,6 @@ jobs:
       - name: Refresh generated profile activity
         env:
           GH_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ github.token }}
           GITHUB_USERNAME: warrior141004
         run: ./scripts/maintain-profile.sh
