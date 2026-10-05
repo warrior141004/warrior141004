@@ -140,6 +140,7 @@
 
 | Repository | Stack | Focus | Last Push |
 | --- | --- | --- | --- |
+| [pragyam2](https://github.com/warrior141004/pragyam2) | `TypeScript` | No description yet. | 2026-10-04 |
 | [law24x7-website](https://github.com/warrior141004/law24x7-website) | `JavaScript` | No description yet. | 2026-09-20 |
 | [Salary_slip](https://github.com/warrior141004/Salary_slip) | `JavaScript` | React and Vite salary slip generator for payroll documents. | 2026-07-25 |
 | [DAA](https://github.com/warrior141004/DAA) | `C++` | C++ implementations of sorting and searching algorithms. | 2026-07-25 |
