@@ -140,6 +140,7 @@
 
 | Repository | Stack | Focus | Last Push |
 | --- | --- | --- | --- |
+| [Scientific-Computing-](https://github.com/warrior141004/Scientific-Computing-) | `Python` | scientific computing  | 2026-11-22 |
 | [pragyam2](https://github.com/warrior141004/pragyam2) | `TypeScript` | No description yet. | 2026-10-21 |
 | [law24x7-website](https://github.com/warrior141004/law24x7-website) | `JavaScript` | No description yet. | 2026-09-20 |
 | [Salary_slip](https://github.com/warrior141004/Salary_slip) | `JavaScript` | React and Vite salary slip generator for payroll documents. | 2026-07-25 |
